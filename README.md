@@ -33,8 +33,6 @@ TODO
 1. [ ] Multiple inputs from the same line
 2. [ ] Write XOR using only AND and OR (pretty useless for learning the language. Just want to see if you can.)
 3. [ ] Difficult - Convert an integer to binary. (or base anything really)
-4. [ ] Easy - Say I have 4 variables each with a single digit number a=1 b=2 c=3 d=4, I want to get an answer to 12*34.
-5. [ ] Try to implement 4 as a log division solution
 
 ## Day 3
 
@@ -44,6 +42,24 @@ TODO
 4. Split a string,
 5. == vs is (concept of pointers)
 6. type() function
+7. int limits
+
+TODO
+
+1. [ ] Easy - Say I have 4 variables each with a single digit number a=1 b=2 c=3 d=4, I want to get an answer to 12*34.
+2. [ ] Try to implement 4 as a log division solution
+3. [ ] Difficult - Convert base 10 to binary - as in 27 to 11011
+4. [ ] Write a basic file with datetime variables - display current time, what time will it be after 4 hours have passed etc .
+5. [ ] Moderate difficulty - can you write in a user friendly way if after/before a certain amount of time has passed, will it be - Today, Tomorrow, Yesterday, or neither.
+
+## Day 4
+
+1. If conditions
+2. Loops - while, for, foreach
+3. Nested loops
+4. Python identation
+5. break and continue
+6. Lists for loops - Introduce
 
 String as an array Find, Replace, Reverse a string, check palindrome
 
