@@ -18,6 +18,7 @@ TODO
 1. [ ] print without newlines.
 2. [ ] print multiple variables in the same statement
 3. [ ] Print multiple variables in the same statement separated by a "-"
+4. [ ] swap variables. if you have a and b with two values, put a's vlaue in b and b's value in a
 
 ## Day 2
 
@@ -43,6 +44,7 @@ TODO
 5. == vs is (concept of pointers)
 6. type() function
 7. int limits
+8. import math or import operator
 
 TODO
 
@@ -59,8 +61,29 @@ TODO
 3. Nested loops
 4. Python identation
 5. break and continue
-6. Lists for loops - Introduce
+6. Lists for loops - Introduce - get value at index, length, start at 0, 
+7. Any, All, In operators 
 
-String as an array Find, Replace, Reverse a string, check palindrome
+TODO
+1. Print only odd values in an array
+2. find common values between two arrays
+3. find max value in an array
+4. Using 5, can you sort an array. O(n^2) will be revisited.
+5. Using long division you tried earlier, can you multiple two array of numbers [2,1,3]*[2,5,6,8,9] = 213*25689
 
-List - Any, All operators import math or import operator
+## Day 4
+1. String as lists
+2. Splicing strings and arrays
+3. change list items
+4. Add list items (append, insert, extend), remove list items(remove, pop)
+5. Join lists
+6. Copy lists
+7. Find, Replace in string.
+8. [List methods](https://www.w3schools.com/python/python_lists_methods.asp)
+
+TODO
+1. Reverse a string.
+2. Check if string is a palindrome
+3. Merge two sorted lists -  Remember this. Will be useful later.
+4. Remove duplicates from sorted list - Will be revisited.
+5. [Word Pattern](https://leetcode.com/problems/word-pattern/)
