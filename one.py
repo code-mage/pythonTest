@@ -20,6 +20,6 @@ print (i)
 i = "Whatever"
 
 print (i)
-
+print ("x")
 
 #Wanna learn more about print in detail - format, add, sep and end
