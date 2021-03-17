@@ -1,0 +1,317 @@
+[
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "Todo.one",
+        "description": "Todo.one",
+        "peekOfCode": "string1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\n# Problem 1\n# Multiple print statements, that prints these strings in the same line.\n# Output expected - To forget the dead would be akin to killing them a second time\nprint(string1)\nprint(string2)\nprint(string3)\n# Problem 2",
+        "detail": "Todo.one",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "Todo.one",
+        "description": "Todo.one",
+        "peekOfCode": "string2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\n# Problem 1\n# Multiple print statements, that prints these strings in the same line.\n# Output expected - To forget the dead would be akin to killing them a second time\nprint(string1)\nprint(string2)\nprint(string3)\n# Problem 2\n# A single print statement that prints all these three strings seperated by a space",
+        "detail": "Todo.one",
+        "documentation": {}
+    },
+    {
+        "label": "string3",
+        "kind": 5,
+        "importPath": "Todo.one",
+        "description": "Todo.one",
+        "peekOfCode": "string3 = \"a second time\"\n# Problem 1\n# Multiple print statements, that prints these strings in the same line.\n# Output expected - To forget the dead would be akin to killing them a second time\nprint(string1)\nprint(string2)\nprint(string3)\n# Problem 2\n# A single print statement that prints all these three strings seperated by a space\n# Output expected - To forget the dead would be akin to killing them a second time",
+        "detail": "Todo.one",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "i = 10\n# print = 78\n# print (print)\nprint (i)\n#variable can be reassigned\ni = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "i = input()\nprint (i)\n#int\ni = 23\n#float\nj = 23.5\n#bool\nk = True\n# char\nl = 'w'",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "i = 23\n#float\nj = 23.5\n#bool\nk = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "j",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "j = 23.5\n#bool\nk = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "k",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "k = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "l = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "m",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "m = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())\nb = int(input())\n#Operator 1",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "value1",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "value1 = input()\nvalue2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())\nb = int(input())\n#Operator 1\nprint (a+b);\nprint (a-b);\nprint (a*b);",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "value2",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "value2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())\nb = int(input())\n#Operator 1\nprint (a+b);\nprint (a-b);\nprint (a*b);\n#division later",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "a = int(input())\nb = int(input())\n#Operator 1\nprint (a+b);\nprint (a-b);\nprint (a*b);\n#division later\n# Operator 2\nprint (a>b)\nprint(a<b)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "b = int(input())\n#Operator 1\nprint (a+b);\nprint (a-b);\nprint (a*b);\n#division later\n# Operator 2\nprint (a>b)\nprint(a<b)\nprint(a==b)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "a = True\nb = False\nprint(a or b)\nprint(a and b)\nprint(not a)\n#Do these operators work outside int\n#Yes, but don't really use anything execpt +\na = \"hello\"\nb = \"world\"\nprint (a+b);",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "b = False\nprint(a or b)\nprint(a and b)\nprint(not a)\n#Do these operators work outside int\n#Yes, but don't really use anything execpt +\na = \"hello\"\nb = \"world\"\nprint (a+b);\n# - & // don't work",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "a = \"hello\"\nb = \"world\"\nprint (a+b);\n# - & // don't work\n#alphabetical\nprint (a>b)\nprint(a<b)\nprint(a==b)\nprint(a>=b)\nprint(a<=b)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "b = \"world\"\nprint (a+b);\n# - & // don't work\n#alphabetical\nprint (a>b)\nprint(a<b)\nprint(a==b)\nprint(a>=b)\nprint(a<=b)\nprint(a!=b)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "h",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "h = 6\nprint(a*6)\n# division\na = 5\nb = 2\nc = -5\n# // is integer division. It uses the floor value\nprint(a//b)\nprint (c//b)\nd = 5.0",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "a = 5\nb = 2\nc = -5\n# // is integer division. It uses the floor value\nprint(a//b)\nprint (c//b)\nd = 5.0\ne = 2.0\nf = -5.0\n# / is float division",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "b = 2\nc = -5\n# // is integer division. It uses the floor value\nprint(a//b)\nprint (c//b)\nd = 5.0\ne = 2.0\nf = -5.0\n# / is float division\nprint(d/e)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "c = -5\n# // is integer division. It uses the floor value\nprint(a//b)\nprint (c//b)\nd = 5.0\ne = 2.0\nf = -5.0\n# / is float division\nprint(d/e)\nprint(f/e)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "d = 5.0\ne = 2.0\nf = -5.0\n# / is float division\nprint(d/e)\nprint(f/e)\n# Guess\nval1 = 6.0\nval2 = 2.0\nval3 = 6",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "e = 2.0\nf = -5.0\n# / is float division\nprint(d/e)\nprint(f/e)\n# Guess\nval1 = 6.0\nval2 = 2.0\nval3 = 6\nval4 = 2",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "f = -5.0\n# / is float division\nprint(d/e)\nprint(f/e)\n# Guess\nval1 = 6.0\nval2 = 2.0\nval3 = 6\nval4 = 2\nprint(val1/val2)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val1",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val1 = 6.0\nval2 = 2.0\nval3 = 6\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val2",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val2 = 2.0\nval3 = 6\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val3",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val3 = 6\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)\nprint(val3//val2)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val4",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)\nprint(val3//val2)\n# Guess again",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val1",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val1 = 5.0\nval2 = 2.0\nval3 = 5\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val2",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val2 = 2.0\nval3 = 5\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val3",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val3 = 5\nval4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)\nprint(val3//val2)",
+        "detail": "two",
+        "documentation": {}
+    },
+    {
+        "label": "val4",
+        "kind": 5,
+        "importPath": "two",
+        "description": "two",
+        "peekOfCode": "val4 = 2\nprint(val1/val2)\nprint(val1//val2)\nprint(val3/val4)\nprint(val3//val4)\nprint(val1/val4)\nprint(val1//val4)\nprint(val3/val2)\nprint(val3//val2)\n# You don't need to remember it. It's just for fun",
+        "detail": "two",
+        "documentation": {}
+    }
+]
