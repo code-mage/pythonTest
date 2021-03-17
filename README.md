@@ -38,38 +38,37 @@ TODO
 
 ## Day 3
 
-1. Complicated operators - += -= %
-2. String and int add and parsing
-3. Complicating string - \n, escaping quotes, format (from string import Template, do not use),
-4. Split a string,
-5. == vs is (concept of pointers)
-6. type() function
-7. int limits
-8. import math or import operator
+1. [ ] Complicated operators - += -= %
+2. [ ] String and int add and parsing
+3. [ ] Complicating string - \n, escaping quotes, format (from string import Template, do not use),
+4. [ ] Split a string,
+5. [ ] == vs is (concept of pointers)
+6. [ ] type() function
+7. [ ] import math or import operator
 
 TODO
 
-1. [ ] Difficult - Convert base 10 to binary - as in 27 to 11011
+1. [ ] Difficult - Convert base 10 to binary - as in 27 to 11011 - There are direct solutions available on the internet, don't use them, just give it a shot
 2. [ ] Write a basic file with datetime variables - display current time, what time will it be after 4 hours have passed etc .
 3. [ ] Moderate difficulty - can you write in a user friendly way if after/before a certain amount of time has passed, will it be - Today, Tomorrow, Yesterday, or neither.
 
 ## Day 4
 
-1. If conditions
-2. Loops - while, for, foreach
-3. Nested loops
-4. Python identation
-5. break and continue
-6. Lists for loops - Introduce - get value at index, length, start at 0,
-7. Any, All, In operators
+1. [ ] If conditions
+2. [ ] Loops - while, for, foreach
+3. [ ] Nested loops
+4. [ ] Python indentation
+5. [ ] break and continue
+6. [ ] Lists for loops - Introduce - get value at index, length, start at 0,
+7. [ ] Any, All, In operators
 
 TODO
 
-1. Print only odd values in an array
-2. find common values between two arrays
-3. find max value in an array
-4. Using 5, can you sort an array. O(n^2) will be revisited.
-5. Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
+1. [ ] Print only odd values in an array
+2. [ ] find common values between two arrays
+3. [ ] find max value in an array
+4. [ ] Using 5, can you sort an array. O(n^2) will be revisited.
+5. [ ] Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
 
 ## Day 5
 

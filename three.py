@@ -71,6 +71,18 @@ txt2 = "My name is {0}, I'm {1}".format(name, age)
 print(txt1)
 print(txt2)
 
+
+#Random Operators
+a = "oh boy"
+print(a.capitalize())
+print(a.upper())
+print(a.join("--"))
+
+#Just try out different string operrators if you want
+# you can do a. and let the IDE autocomplete. it will show you a list of operations.
+
+
+
 #Split
 txt = "welcome to the party pal"
 x = txt.split()
@@ -78,11 +90,3 @@ print(x)
 txt = "apple#banana#cherry#orange"
 x = txt.split("#")
 print(x)
-
-#Random Operators
-a = "oh boy!"
-print(a.capitalize())
-print(a.join("-"))
-
-#Just try out different string operrators if you want
-# you can do a. and let the IDE autocomplete. it will show you a list of operations.
