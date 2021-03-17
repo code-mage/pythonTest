@@ -22,5 +22,6 @@ i = "Whatever"
 print (i)
 print ("x")
 print ("hello world")
+print ("strings")
 
 #Wanna learn more about print in detail - format, add, sep and end

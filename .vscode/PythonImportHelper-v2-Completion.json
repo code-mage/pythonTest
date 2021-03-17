@@ -40,7 +40,7 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end",
         "detail": "one",
         "documentation": {}
     },
@@ -49,7 +49,7 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end",
         "detail": "one",
         "documentation": {}
     },
