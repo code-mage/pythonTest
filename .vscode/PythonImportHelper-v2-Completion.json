@@ -1,6 +1,14 @@
 [
     {
         "label": "string1",
+        "importPath": "Todo.one",
+        "description": "Todo.one",
+        "isExtraImport": true,
+        "detail": "Todo.one",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
         "kind": 5,
         "importPath": "Todo.one",
         "description": "Todo.one",
@@ -40,7 +48,7 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end\nstring1 = \"To forget the dead\"",
         "detail": "one",
         "documentation": {}
     },
@@ -49,7 +57,34 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end",
+        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end\nstring1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string3",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
         "detail": "one",
         "documentation": {}
     },

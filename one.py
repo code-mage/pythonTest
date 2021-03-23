@@ -1,4 +1,6 @@
 #Printing Hello World
+from Todo.one import string1
+
 
 print("Hello World")
 
@@ -25,3 +27,11 @@ print ("hello world")
 print ("strings")
 
 #Wanna learn more about print in detail - format, add, sep and end
+
+string1 = "To forget the dead"
+string2 = "would be akin to killing them"
+string3 = "a second time"
+
+print(string1, end=" ")
+print(string2, end=" ")
+print(string3 )
