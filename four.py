@@ -1,8 +1,5 @@
 # if conditions
 
-from typing import Any
-
-
 if (True):
     print("true")
     
@@ -82,3 +79,10 @@ print(any(a))
 print(all(a))
     
     
+#is again
+a = []
+b = []
+
+print(a==b)     #True   
+print(a is b)   #False
+#explain pointers
