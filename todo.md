@@ -5,8 +5,9 @@ Explain Null @Saleha
 Garbage Collection @Saleha
 Explain pointers @Saleha
 
-Main, Functions, Args @Saleha 
-Passing function as args @Saleha
+Main, Functions, Args @Saleha  {cm:2021-03-27}
+Passing function as args @Saleha {cm:2021-03-27}
+Yield in functions @Saleha
 Classes, Scopes, static variables @Saleha
 Classes Inheritance @Saleha
 Modules @Saleha

@@ -73,45 +73,60 @@ TODO
 
 ## Day 5
 
-1. String as lists
-2. Splicing strings and arrays
-3. change list items
-4. Add list items (append, insert, extend), remove list items(remove, pop)
-5. Join lists
-6. Copy lists
-7. Find, Replace in string.
-8. List within a list
-9. [List methods](https://www.w3schools.com/python/python_lists_methods.asp)
+1. [ ] String as lists
+2. [ ] Splicing strings and arrays
+3. [ ] change list items
+4. [ ] Add list items (append, insert, extend), remove list items(remove, pop)
+5. [ ] Join lists
+6. [ ] Copy lists
+7. [ ] Find, Replace in string.
+8. [ ] List within a list
+9. [ ] [List methods](https://www.w3schools.com/python/python_lists_methods.asp)
 
 TODO
 
-1. Reverse a string.
-2. Check if string is a palindrome
-3. Merge two sorted lists - Remember this. Will be useful later.
-4. Remove duplicates from sorted list - Will be revisited.
-5. Matrix multiplication
-6. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+1. [ ] Reverse a string.
+2. [ ] Check if string is a palindrome
+3. [ ] Merge two sorted lists - Remember this. Will be useful later.
+4. [ ] Remove duplicates from sorted list - Will be revisited.
+5. [ ] Matrix multiplication
+6. [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 ## Day 6
 
-1. Tuples
-2. Dictionary
-3. Sets
+1. [ ] Tuples
+2. [ ] Dictionary
+3. [ ] Sets
 
 TODO
 
-1. Reverse the Tuple - There are two ways to do this - a direct function and a loop through a tuple
-2. Count the number of times a value appears in a Tuple
-3. Create mirror image of a string - a replaced with z, b with y etc.
-4. In last TODO, we tried to find common values between two lists. Can you simply that using sets.
-5. Given a list of integers, check if any two add up to a given number. (Must only loop through the list once)
-6. Given a list, find the second most repeated word in it (Must only loop through the list once)
+1. [ ] Reverse the Tuple - There are two ways to do this - a direct function and a loop through a tuple
+2. [ ] Count the number of times a value appears in a Tuple
+3. [ ] Create mirror image of a string - a replaced with z, b with y etc.
+4. [ ] In last TODO, we tried to find common values between two lists. Can you simply that using sets.
+5. [ ] Given a list of integers, check if any two add up to a given number. (Must only loop through the list once)
+6. [ ] Given a list, find the second most repeated word in it (Must only loop through the list once)
 
 ## Day 7
 
-1. File I/O
-2. Exception Handling
+1. [ ] File I/O
+2. [ ] Exception Handling
 
 TODO
-1. Take user input as two numbers and add them. Handle incorrect input provided by the user.
-2. Download [this](https://drive.google.com/file/d/1NdVS_nkgSpAL3vQ8k-HX1NHaRHMETjU3/view?usp=drivesdk) file. Try to use DateTime, string splits and readfile to calculate how many messages we've sent to each other.  And in how many do you use "...". And if the frequency is decreasing. 
+1. [ ] Take user input as two numbers and add them. Handle incorrect input provided by the user.
+2. [ ] Download [this](https://drive.google.com/file/d/1NdVS_nkgSpAL3vQ8k-HX1NHaRHMETjU3/view?usp=drivesdk) file. Try to use DateTime, string splits and readfile to calculate how many messages we've sent to each other.  And in how many do you use "...". And if the frequency is decreasing. 
+
+## Day 8
+
+1. [ ] Main
+2. [ ] Functions
+3. [ ] Args
+4. [ ] Passing functions as arguments
+5. [ ] Where to use functions
+6. [ ] Variable scopes inside functions
+7. [ ] Use a function created in a different file (import file)
+8. [ ] Nested Functions
+
+TODO
+1. [ ] Function that prints the next value in the fibbonacci sequence, given last two values
+2. [ ] Use 1 to print the first 'x' values(taken by input) of a fibbonacci sequence.
