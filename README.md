@@ -88,3 +88,19 @@ TODO
 3. Merge two sorted lists - Remember this. Will be useful later.
 4. Remove duplicates from sorted list - Will be revisited.
 5. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+
+## Day 6
+1. Tuples
+2. Dictionary
+3. Sets
+
+TODO
+1. Reverse the Tuple - There are two ways to do this - a direct function and a loop through a tuple
+2. Count the number of times a value appears in a Tuple
+3. Create mirror image of a string - a replaced with z, b with y etc.
+4. In last TODO, we tried to find common values between two lists. Can you simply that using sets.
+5. Given a list of integers, check if any two add up to a given number. (Must only loop through the list once)
+6. Given a list, find the second most repeated word in it (Must only loop through the list once)
+
+## Day 7
+1. File I/O
