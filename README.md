@@ -113,6 +113,7 @@ TODO
 2. [ ] Exception Handling
 
 TODO
+
 1. [ ] Take user input as two numbers and add them. Handle incorrect input provided by the user.
 2. [ ] Download [this](https://drive.google.com/file/d/1NdVS_nkgSpAL3vQ8k-HX1NHaRHMETjU3/view?usp=drivesdk) file. Try to use DateTime, string splits and readfile to calculate how many messages we've sent to each other.  And in how many do you use "...". And if the frequency is decreasing. 
 
@@ -128,5 +129,9 @@ TODO
 8. [ ] Nested Functions
 
 TODO
+
 1. [ ] Function that prints the next value in the fibbonacci sequence, given last two values
 2. [ ] Use 1 to print the first 'x' values(taken by input) of a fibbonacci sequence.
+3. [ ] Add each place value in an int till you are left with a single digit number -> 753967 -> 37 -> 10 -> 1
+4. [ ] Given an array of n length, with values between 0 to n, find the one missing value. (There is a creative way to do this :), let's see if you can find it)
+5. [ ] Given an integer, check if it is a power of thee (as in 3 or 9 or 27 or 81 i.e. 3^0, 3^1, 3^2, 3^3, 3^4, 3^5, 3^6...)

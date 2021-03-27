@@ -20,7 +20,6 @@ Multi-threading @Saleha
 Testing @Saleha
 
 Operator Functions @Saleha
-Matrix @Saleha
 Lambda Functions @Saleha
 
 Tree @Saleha
