@@ -10,8 +10,10 @@ Passing function as args @Saleha
 Classes, Scopes, static variables @Saleha
 Classes Inheritance @Saleha
 Modules @Saleha
-File I/O @Saleha
-Exception Handling @Saleha
+File I/O @Saleha {cm:2021-03-27}
+Exception Handling @Saleha {cm:2021-03-27}
+Matrix @Saleha {cm:2021-03-27}
+Create your own exception @Saleha
 Regex @Saleha
 Multi-threading @Saleha
 Testing @Saleha

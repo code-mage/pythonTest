@@ -80,7 +80,8 @@ TODO
 5. Join lists
 6. Copy lists
 7. Find, Replace in string.
-8. [List methods](https://www.w3schools.com/python/python_lists_methods.asp)
+8. List within a list
+9. [List methods](https://www.w3schools.com/python/python_lists_methods.asp)
 
 TODO
 
@@ -88,7 +89,8 @@ TODO
 2. Check if string is a palindrome
 3. Merge two sorted lists - Remember this. Will be useful later.
 4. Remove duplicates from sorted list - Will be revisited.
-5. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+5. Matrix multiplication
+6. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 ## Day 6
 
@@ -108,3 +110,8 @@ TODO
 ## Day 7
 
 1. File I/O
+2. Exception Handling
+
+TODO
+1. Take user input as two numbers and add them. Handle incorrect input provided by the user.
+2. Download [this](https://drive.google.com/file/d/1NdVS_nkgSpAL3vQ8k-HX1NHaRHMETjU3/view?usp=drivesdk) file. Try to use DateTime, string splits and readfile to calculate how many messages we've sent to each other.  And in how many do you use "...". And if the frequency is decreasing. 
