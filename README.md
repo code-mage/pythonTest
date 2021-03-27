@@ -67,8 +67,9 @@ TODO
 1. [ ] Print only odd values in an array
 2. [ ] find common values between two arrays
 3. [ ] find max value in an array
-4. [ ] Using 5, can you sort an array. O(n^2) will be revisited.
-5. [ ] Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
+4. [ ] Using 3, can you sort an array. O(n^2) will be revisited.
+5. [ ] Given an array, can you find it it is sorted.
+6. [ ] Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
 
 ## Day 5
 
@@ -90,11 +91,13 @@ TODO
 5. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 ## Day 6
+
 1. Tuples
 2. Dictionary
 3. Sets
 
 TODO
+
 1. Reverse the Tuple - There are two ways to do this - a direct function and a loop through a tuple
 2. Count the number of times a value appears in a Tuple
 3. Create mirror image of a string - a replaced with z, b with y etc.
@@ -103,4 +106,5 @@ TODO
 6. Given a list, find the second most repeated word in it (Must only loop through the list once)
 
 ## Day 7
+
 1. File I/O
