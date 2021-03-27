@@ -15,19 +15,19 @@
 
 TODO
 
-1. [ ] print without newlines.
-2. [ ] print multiple variables in the same statement
-3. [ ] Print multiple variables in the same statement separated by a "-"
-4. [ ] swap variables. if you have a and b with two values, put a's value in b and b's value in a
+1. [X] print without newlines.
+2. [X] print multiple variables in the same statement
+3. [X] Print multiple variables in the same statement separated by a "-"
+4. [X] swap variables. if you have a and b with two values, put a's value in b and b's value in a
 
 ## Day 2
 
-1. [ ] Go over TODOs
-2. [ ] input()
-3. [ ] variable types
-4. [ ] input typecasting
-5. [ ] Play around with string (collection of char), int, bool and float - basics
-6. [ ] Introduce operators (+-* ><= andOrNot) - Focus on ==, division (// for int vs / for float)
+1. [X] Go over TODOs
+2. [X] input()
+3. [X] variable types
+4. [X] input typecasting
+5. [X] Play around with string (collection of char), int, bool and float - basics
+6. [X] Introduce operators (+-* ><= andOrNot) - Focus on ==, division (// for int vs / for float)
 
 TODO
 
