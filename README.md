@@ -148,9 +148,9 @@ TODO
 
 TODO
 
-1. How to override printing a particular class.
-2. Multiple inheritances
-3. Create a class called People - getting and setting values age, firstName, lastName
+1. [ ] How to override printing a particular class.
+2. [ ] Multiple inheritances
+3. [ ] Create a class called People - getting and setting values age, firstName, lastName
    1. Then create a class called Employee - that inherits from People, and adds values like profession and Company
    2. For each employee, there should be a boss Employee.
    3. Create an employee tree using that
