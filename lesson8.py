@@ -22,6 +22,9 @@ def addToListWithCopy(list, value):
     listCopy.append(value)
     return listCopy;
 
+def add(value, increment = 1):
+    return value+increment
+
 def main():
     print("Lesson 8")
     myFun('Hello', 'Welcome', 'to', 'GeeksforGeeks') 
@@ -52,6 +55,11 @@ def main():
     a = module1.make_point(2,3)
     print(a[0]())
     print(a[1]())
+    
+    #Default values
+    s = 23
+    print(add(s))
+    print(add(s,5))
 
 if __name__ == "__main__":
     main()

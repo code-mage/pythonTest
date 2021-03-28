@@ -8,9 +8,9 @@ Explain pointers @Saleha
 Main, Functions, Args @Saleha  {cm:2021-03-27}
 Passing function as args @Saleha {cm:2021-03-27}
 Yield in functions @Saleha
-Classes, Scopes, static variables @Saleha
-Classes Inheritance @Saleha
-Modules @Saleha
+Classes, Scopes, static variables @Saleha {cm:2021-03-27}
+Classes Inheritance @Saleha {cm:2021-03-27}
+Modules @Saleha {cm:2021-03-27}
 File I/O @Saleha {cm:2021-03-27}
 Exception Handling @Saleha {cm:2021-03-27}
 Matrix @Saleha {cm:2021-03-27}
@@ -30,12 +30,11 @@ Graph @Saleha
 JSON @Saleha
 Numpy @Saleha
 
-
 Common Algorithms @Saleha
 Order(n) @Saleha
 Space Complexity @Saleha
 Dynamic Programming @Saleha
-Greedy Algortihms @Saleha
+Greedy Algorithms @Saleha
 Backtracking @Saleha
 Divide and Conquer @Saleha
 Graph @Saleha

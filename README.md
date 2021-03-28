@@ -133,5 +133,24 @@ TODO
 1. [ ] Function that prints the next value in the fibbonacci sequence, given last two values
 2. [ ] Use 1 to print the first 'x' values(taken by input) of a fibbonacci sequence.
 3. [ ] Add each place value in an int till you are left with a single digit number -> 753967 -> 37 -> 10 -> 1
-4. [ ] Given an array of n length, with values between 0 to n, find the one missing value. (There is a creative way to do this :), let's see if you can find it)
+4. [ ] Given an array of n length, with values between 0 to n (no value is repeated), find the one missing value. (There is a creative way to do this, let's see if you can find it)
 5. [ ] Given an integer, check if it is a power of thee (as in 3 or 9 or 27 or 81 i.e. 3^0, 3^1, 3^2, 3^3, 3^4, 3^5, 3^6...)
+
+## Day 9
+
+1. [ ] Classes
+2. [ ] Init
+3. [ ] Inheritance
+4. [ ] public members, get set etc.
+5. [ ] self
+6. [ ] static
+7. [ ] destructors
+
+TODO
+
+1. How to override printing a particular class.
+2. Multiple inheritances
+3. Create a class called People - getting and setting values age, firstName, lastName
+   1. Then create a class called Employee - that inherits from People, and adds values like profession and Company
+   2. For each employee, there should be a boss Employee.
+   3. Create an employee tree using that
