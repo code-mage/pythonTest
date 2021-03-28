@@ -154,3 +154,19 @@ TODO
    1. Then create a class called Employee - that inherits from People, and adds values like profession and Company
    2. For each employee, there should be a boss Employee.
    3. Create an employee tree using that
+
+## Day 10
+
+1. [ ] Linked List
+2. [ ] Length
+3. [ ] add
+4. [ ] add in the middle
+5. [ ] remove
+
+TODO
+
+1. [ ] Add at index, throw exception, fix one off errors
+2. [ ] Reverse the list
+3. [ ] Find every occurance of a value and replace
+4. [ ] Remove every occurance of a value from the list
+5. [ ] Check if linked list is a palindrome
