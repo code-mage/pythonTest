@@ -170,3 +170,29 @@ TODO
 3. [ ] Find every occurance of a value and replace
 4. [ ] Remove every occurance of a value from the list
 5. [ ] Check if linked list is a palindrome
+
+## Day 11
+
+1. [ ] Explain Select Sort
+2. [ ] Merge Sort
+3. [ ] Bubble Sort
+4. [ ] Insertion Sort
+5. [ ] Quick Sort
+6. [ ] Explain O(n) notations
+7. [ ] Explain space complexity
+
+TODO
+
+1. [ ] Implement all these sorts
+
+## Day 12
+
+1. [ ] Binary Tree
+2. [ ] BST
+3. [ ] BST populate, add, search, remove
+4. [ ] BST for sorting.
+5. [ ] Balanced BST
+
+TODO
+
+1. [ ] Implement all these
