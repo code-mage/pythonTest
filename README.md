@@ -31,10 +31,9 @@ TODO
 
 TODO
 
-1. [ ] Multiple inputs from the same line
+1. [X] Multiple inputs from the same line
 2. [ ] Write XOR using only AND and OR (pretty useless for learning the language. Just want to see if you can.)
-3. [ ] Easy - Say I have 4 variables each with a single digit number a=1 b=2 c=3 d=4, I want to get an answer to 12*34.
-4. [ ] Try to implement 1 as a log division solution3.
+3. [X] Easy - Say I have 4 variables each with a single digit number a=1 b=2 c=3 d=4, I want to get an answer to 12*34.
 
 ## Day 3
 
