@@ -180,74 +180,83 @@
         "documentation": {}
     },
     {
-        "label": "i",
-        "kind": 5,
+        "label": "XO",
+        "kind": 2,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "i = 15\nj = \"15\"\nk = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)",
+        "peekOfCode": "def XOR (aInput, bInput):\n    if aInput != bInput:\n        return 1\n    else:\n        return 0\nprint (\"output is\", XOR(aInput, bInput))\nif aInput == 1 and bInput == 1:\n    XORGate = \"False\"\n    XORGateNum = 0\nif aInput == 1 and bInput == 0:",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "j",
-        "kind": 5,
+        "label": "numConcat",
+        "kind": 2,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "j = \"15\"\nk = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "def numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2\n        return int(num1)\ne = (numConcat(a, b))\nprint(e)",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "k",
+        "label": "a",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "k = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "a = int(input())\nprint (\"enter seconf value\")\nb = int(input())\nprint (\"enter third value\")\nc = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "l",
+        "label": "b",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "l = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "b = int(input())\nprint (\"enter third value\")\nc = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "m",
+        "label": "c",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "m = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "c = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "o",
+        "label": "d",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "o = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "d = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2\n        return int(num1)\ne = (numConcat(a, b))",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "p",
+        "label": "e",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "p = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "e = (numConcat(a, b))\nprint(e)\nf = (numConcat(c ,d))\nprint(f)\nproduct = (e*f)\nprint(product)",
         "detail": "three",
         "documentation": {}
     },
     {
-        "label": "q",
+        "label": "f",
         "kind": 5,
         "importPath": "three",
         "description": "three",
-        "peekOfCode": "q = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "peekOfCode": "f = (numConcat(c ,d))\nprint(f)\nproduct = (e*f)\nprint(product)",
+        "detail": "three",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "kind": 5,
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "product = (e*f)\nprint(product)",
         "detail": "three",
         "documentation": {}
     },
