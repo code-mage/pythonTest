@@ -37,12 +37,12 @@ TODO
 
 ## Day 3
 
-1. [ ] Complicated operators - += -= %
-2. [ ] String and int add and parsing
+1. [X] Complicated operators - += -= %
+2. [X] String and int add and parsing
 3. [ ] Complicating string - \n, escaping quotes, format (from string import Template, do not use),
-4. [ ] Split a string,
-5. [ ] == vs is (concept of pointers)
-6. [ ] type() function
+4. [X] Split a string,
+5. [X] == vs is (concept of pointers)
+6. [X] type() function
 7. [ ] import math or import operator
 
 TODO
