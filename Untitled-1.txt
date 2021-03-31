@@ -1,0 +1,15 @@
+print ("input two numbers")
+x, y = input("Enter a two value: ").split()
+print("Number of boys: ", x)
+print("Number of girls: ", y)
+print()
+
+def XOR (aInput, bInput):
+    if aInput == 1 and bInput == 1
+        return 1
+    if aInput == 1 and bInput == 1
+        return 1
+    if aInput == 1 and bInput == 1
+        return 1
+    else:
+        return 0

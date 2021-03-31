@@ -1,14 +1,6 @@
 [
     {
         "label": "string1",
-        "importPath": "Todo.one",
-        "description": "Todo.one",
-        "isExtraImport": true,
-        "detail": "Todo.one",
-        "documentation": {}
-    },
-    {
-        "label": "string1",
         "kind": 5,
         "importPath": "Todo.one",
         "description": "Todo.one",
@@ -35,30 +27,84 @@
         "documentation": {}
     },
     {
-        "label": "i",
-        "kind": 5,
-        "importPath": "one",
-        "description": "one",
-        "peekOfCode": "i = 10\n# print = 78\n# print (print)\nprint (i)\n#variable can be reassigned\ni = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)",
-        "detail": "one",
+        "label": "XO",
+        "kind": 2,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "def XOR (aInput, bInput):\n    if aInput != bInput:\n        return 1\n    else:\n        return 0\nprint (\"output is\", XOR(aInput, bInput))\nif aInput == 1 and bInput == 1:\n    XORGate = \"False\"\n    XORGateNum = 0\nif aInput == 1 and bInput == 0:",
+        "detail": "four",
         "documentation": {}
     },
     {
-        "label": "i",
-        "kind": 5,
-        "importPath": "one",
-        "description": "one",
-        "peekOfCode": "i = 20\nprint (i)\n# In python, it can be reassigned to a diff type - int to string\ni = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end\nstring1 = \"To forget the dead\"",
-        "detail": "one",
+        "label": "numConcat",
+        "kind": 2,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "def numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2\n        return int(num1)\ne = (numConcat(a, b))\nprint(e)",
+        "detail": "four",
         "documentation": {}
     },
     {
-        "label": "i",
+        "label": "a",
         "kind": 5,
-        "importPath": "one",
-        "description": "one",
-        "peekOfCode": "i = \"Whatever\"\nprint (i)\nprint (\"x\")\nprint (\"hello world\")\nprint (\"strings\")\n#Wanna learn more about print in detail - format, add, sep and end\nstring1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")",
-        "detail": "one",
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "a = int(input())\nprint (\"enter seconf value\")\nb = int(input())\nprint (\"enter third value\")\nc = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "b = int(input())\nprint (\"enter third value\")\nc = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "c = int(input())\nprint (\"enter fourth value\")\nd = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "d = int(input())\ndef numConcat(num1, num2):\n        # Convert both the numbers to\n        # strings\n        num1 = str(num1)\n        num2 = str(num2)\n        # Concatenate the strings\n        num1 += num2\n        return int(num1)\ne = (numConcat(a, b))",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "e = (numConcat(a, b))\nprint(e)\nf = (numConcat(c ,d))\nprint(f)\nproduct = (e*f)\nprint(product)",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "f = (numConcat(c ,d))\nprint(f)\nproduct = (e*f)\nprint(product)",
+        "detail": "four",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "kind": 5,
+        "importPath": "four",
+        "description": "four",
+        "peekOfCode": "product = (e*f)\nprint(product)",
+        "detail": "four",
         "documentation": {}
     },
     {
@@ -66,7 +112,7 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "string1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
+        "peekOfCode": "string1 = \"To forget the dead\"\nstring2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\n#problem1\nprint(string1, end=\"_\")\nprint(string1)\nprint(string2)\n#problem2\n#method1\nstring4=string1+\" \"+string2+\" \"+ string3",
         "detail": "one",
         "documentation": {}
     },
@@ -75,7 +121,7 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "string2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
+        "peekOfCode": "string2 = \"would be akin to killing them\"\nstring3 = \"a second time\"\n#problem1\nprint(string1, end=\"_\")\nprint(string1)\nprint(string2)\n#problem2\n#method1\nstring4=string1+\" \"+string2+\" \"+ string3\nprint(string4)",
         "detail": "one",
         "documentation": {}
     },
@@ -84,62 +130,125 @@
         "kind": 5,
         "importPath": "one",
         "description": "one",
-        "peekOfCode": "string3 = \"a second time\"\nprint(string1, end=\" \")\nprint(string2, end=\" \")\nprint(string3 )",
+        "peekOfCode": "string3 = \"a second time\"\n#problem1\nprint(string1, end=\"_\")\nprint(string1)\nprint(string2)\n#problem2\n#method1\nstring4=string1+\" \"+string2+\" \"+ string3\nprint(string4)\n#mehod 2",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string1 = \"hello\"\nstring2 = 8\nstring3 = string1\nstring1 = string2\nstring2 = string3\nprint(string1)\nprint(string2)",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string2 = 8\nstring3 = string1\nstring1 = string2\nstring2 = string3\nprint(string1)\nprint(string2)",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string3",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string3 = string1\nstring1 = string2\nstring2 = string3\nprint(string1)\nprint(string2)",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string1",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string1 = string2\nstring2 = string3\nprint(string1)\nprint(string2)",
+        "detail": "one",
+        "documentation": {}
+    },
+    {
+        "label": "string2",
+        "kind": 5,
+        "importPath": "one",
+        "description": "one",
+        "peekOfCode": "string2 = string3\nprint(string1)\nprint(string2)",
         "detail": "one",
         "documentation": {}
     },
     {
         "label": "i",
         "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "i = input()\nprint (i)\n#int\ni = 23\n#float\nj = 23.5\n#bool\nk = True\n# char\nl = 'w'",
-        "detail": "two",
-        "documentation": {}
-    },
-    {
-        "label": "i",
-        "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "i = 23\n#float\nj = 23.5\n#bool\nk = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting",
-        "detail": "two",
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "i = 15\nj = \"15\"\nk = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)",
+        "detail": "three",
         "documentation": {}
     },
     {
         "label": "j",
         "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "j = 23.5\n#bool\nk = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()",
-        "detail": "two",
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "j = \"15\"\nk = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
         "documentation": {}
     },
     {
         "label": "k",
         "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "k = True\n# char\nl = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)",
-        "detail": "two",
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "k = 15.0\nl = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
         "documentation": {}
     },
     {
         "label": "l",
         "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "l = 'w'\n#string\nm = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())",
-        "detail": "two",
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "l = True\nm = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
         "documentation": {}
     },
     {
         "label": "m",
         "kind": 5,
-        "importPath": "two",
-        "description": "two",
-        "peekOfCode": "m = \"word\"\n#input typecasting\nprint(\"Try to enter an alphabet\")\nvalue1 = input()\nvalue2 = int(value1)\nprint (value2+1)\nprint(\"Please input integers only\")\na = int(input())\nb = int(input())\n#Operator 1",
-        "detail": "two",
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "m = int(input())\nn= float(input())\no = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "o = input()\np = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
+        "documentation": {}
+    },
+    {
+        "label": "p",
+        "kind": 5,
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "p = bool(input())\nq = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
+        "documentation": {}
+    },
+    {
+        "label": "q",
+        "kind": 5,
+        "importPath": "three",
+        "description": "three",
+        "peekOfCode": "q = str(k)\nprint (\"hello\"+ q)\nprint (\"hello\"+ k)",
+        "detail": "three",
         "documentation": {}
     },
     {

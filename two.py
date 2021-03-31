@@ -1,23 +1,3 @@
-#take a user input
-i = input()
-
-print (i)
-
-#int
-i = 23
-
-#float
-j = 23.5
-
-#bool
-k = True
-
-# char
-l = 'w'
-
-#string
-m = "word"
-
 #input typecasting
 print("Try to enter an alphabet")
 value1 = input()
