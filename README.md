@@ -39,27 +39,27 @@ TODO
 
 1. [X] Complicated operators - += -= %
 2. [X] String and int add and parsing
-3. [ ] Complicating string - \n, escaping quotes, format (from string import Template, do not use),
+3. [X] Complicating string - \n, escaping quotes, format (from string import Template, do not use),
 4. [X] Split a string,
 5. [X] == vs is (concept of pointers)
 6. [X] type() function
-7. [ ] import math or import operator
+7. [X] import math or import operator
 
 TODO
 
 1. [ ] Difficult - Convert base 10 to binary - as in 27 to 11011 - There are direct solutions available on the internet, don't use them, just give it a shot
-2. [ ] Write a basic file with datetime variables - display current time, what time will it be after 4 hours have passed etc .
-3. [ ] Moderate difficulty - can you write in a user friendly way if after/before a certain amount of time has passed, will it be - Today, Tomorrow, Yesterday, or neither.
+2. [X] Write a basic file with datetime variables - display current time, what time will it be after 4 hours have passed etc .
+3. [X] Moderate difficulty - can you write in a user friendly way if after/before a certain amount of time has passed, will it be - Today, Tomorrow, Yesterday, or neither.
 
 ## Day 4
 
-1. [ ] If conditions
-2. [ ] Loops - while, for, foreach
-3. [ ] Nested loops
-4. [ ] Python indentation
-5. [ ] break and continue
-6. [ ] Lists for loops - Introduce - get value at index, length, start at 0,
-7. [ ] Any, All, In operators
+1. [X] If conditions
+2. [X] Loops - while, for, foreach
+3. [X] Nested loops
+4. [X] Python indentation
+5. [X] break and continue
+6. [X] Lists for loops - Introduce - get value at index, length, start at 0,
+7. [X] Any, All, In operators
 
 TODO
 
