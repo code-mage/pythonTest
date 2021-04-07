@@ -45,3 +45,14 @@ elif aInput == 0 and bInput == 0:
     XORGateNum = 0
 
 print('XOR Gate output is', XORGate, 'or', XORGateNum)
+
+
+#problem 1
+
+print("Enter base 10 value")
+X = int(input())
+
+while X >= 1:
+    X = X//2
+    Y = X%2
+    print (Y, end=" ")
