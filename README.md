@@ -32,7 +32,7 @@ TODO
 TODO
 
 1. [X] Multiple inputs from the same line
-2. [ ] Write XOR using only AND and OR (pretty useless for learning the language. Just want to see if you can.)
+2. [ ] ~~Write XOR using only AND and OR (pretty useless for learning the language. Just want to see if you can.)~~
 3. [X] Easy - Say I have 4 variables each with a single digit number a=1 b=2 c=3 d=4, I want to get an answer to 12*34.
 
 ## Day 3
@@ -47,7 +47,7 @@ TODO
 
 TODO
 
-1. [ ] Difficult - Convert base 10 to binary - as in 27 to 11011 - There are direct solutions available on the internet, don't use them, just give it a shot
+1. [X] Difficult - Convert base 10 to binary - as in 27 to 11011 - There are direct solutions available on the internet, don't use them, just give it a shot
 2. [X] Write a basic file with datetime variables - display current time, what time will it be after 4 hours have passed etc .
 3. [X] Moderate difficulty - can you write in a user friendly way if after/before a certain amount of time has passed, will it be - Today, Tomorrow, Yesterday, or neither.
 
@@ -63,11 +63,11 @@ TODO
 
 TODO
 
-1. [ ] Print only odd values in an array
-2. [ ] find common values between two arrays
-3. [ ] find max value in an array
+1. [X] Print only odd values in an array
+2. [X] find common values between two arrays
+3. [X] **find max value in an array** - Googled
 4. [ ] Using 3, can you sort an array. O(n^2) will be revisited.
-5. [ ] Given an array, can you find it it is sorted.
+5. [X] Given an array, can you find it it is sorted.
 6. [ ] Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
 
 ## Day 5
