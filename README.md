@@ -68,7 +68,7 @@ TODO
 3. [X] **find max value in an array** - Googled
 4. [ ] Using 3, can you sort an array. O(n^2) will be revisited.
 5. [X] Given an array, can you find it it is sorted.
-6. [ ] Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689
+6. [ ] ~~Using long division you tried earlier, can you multiple two array of numbers [2,1,3]_[2,5,6,8,9] = 213_25689~~
 
 ## Day 5
 
@@ -86,8 +86,8 @@ TODO
 
 1. [ ] Reverse a string.
 2. [ ] Check if string is a palindrome
-3. [ ] Merge two sorted lists - Remember this. Will be useful later.
-4. [ ] Remove duplicates from sorted list - Will be revisited.
+3. [ ] Merge two sorted lists -  Remember this. Will be useful later.
+4. [ ] Remove duplicates from list - Will be revisited.
 5. [ ] Matrix multiplication
 6. [ ] [Word Pattern](https://leetcode.com/problems/word-pattern/)
 

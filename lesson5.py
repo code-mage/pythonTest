@@ -49,6 +49,12 @@ print ("\nPOP WITH INDEX")
 a.pop(2)
 for x in a:
     print(x, end=" ")
+
+print ("\nIndex")  
+a.index(87)
+for x in a:
+    print(x, end=" ")
+  
     
 print ("\nRemove")  
 a.remove(87)
